@@ -37,8 +37,3 @@ This code is still a work in progress and will undergo continuous enhancements. 
 - Improving the user interface of the dashboard.
 - Integrating more comprehensive intervention strategies.
 
-## Contributing
-We welcome contributions! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
